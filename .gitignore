@@ -1,0 +1,8 @@
+node_modules/
+dest/
+downloaded/
+
+doc
+
+desktop.ini
+*.gma

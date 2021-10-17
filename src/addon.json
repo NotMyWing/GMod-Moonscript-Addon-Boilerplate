@@ -1,0 +1,9 @@
+{
+	"title": "Moonscript Addon Boilerplate",
+	"type": "",
+	"tags": [],
+	"ignore": [
+		"*.zip",
+		"changelog.md"
+	]
+}
